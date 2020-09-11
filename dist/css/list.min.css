@@ -1,0 +1,58 @@
+@charset "UTF-8";
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/*
+    方向
+*/
+.title {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+}
+
+body {
+  background-color: black;
+}
+
+col-1 {
+  width: 25%;
+}
+
+col-2 {
+  width: 50%;
+}
+
+col-3 {
+  width: 75%;
+}
+
+col-4 {
+  width: 100%;
+}
+
+col-1 {
+  width: 25%;
+}
+
+col-2 {
+  width: 50%;
+}
+
+col-3 {
+  width: 75%;
+}
+
+name-success {
+  background: url(img/success.jpg);
+}
+
+name-error {
+  background: url(img/error.jpg);
+}
+
+name-warning {
+  background: url(img/warning.jpg);
+}
